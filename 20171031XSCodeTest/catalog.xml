@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/Users/216-03/Desktop/2012920022_박성민/20171031XSCodeTest/src/pkg20171031xscodetest/XmlSchemaTest.xsd" uri="xml-resources/jaxb/BindingTest/XmlSchemaTest.xsd"/>
+</catalog>

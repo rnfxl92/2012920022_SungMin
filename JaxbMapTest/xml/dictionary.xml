@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dictionary>
+    <words>
+        <entry>
+            <key>aaa</key>
+            <value>이aaa</value>
+        </entry>
+        <entry>
+            <key>banana</key>
+            <value>바나나</value>
+        </entry>
+        <entry>
+            <key>apple</key>
+            <value>사과</value>
+        </entry>
+        <entry>
+            <key>test</key>
+            <value>테스트</value>
+        </entry>
+        <entry>
+            <key>case</key>
+            <value>케이스</value>
+        </entry>
+    </words>
+</dictionary>
