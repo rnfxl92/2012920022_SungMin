@@ -51,7 +51,7 @@ public class Frame {
     private LiveMediaPanel liveMediaPanel;
     private MediaPanel mediaPanel;
     private JPanel buttonPanel;
-    private ComboBoxPanel comboBoxPanel;
+   
     private JRadioButtonPanel radioButtonPanel;
 
     private MyButtonActionListener buttonActionListener;
@@ -74,9 +74,7 @@ public class Frame {
         aeaPanel = new AeaPanel(buttonActionListener);
         frame.getContentPane().add(aeaPanel);
 
-        comboBoxPanel = new ComboBoxPanel(buttonActionListener);
-        frame.getContentPane().add(comboBoxPanel);
-        
+              
         
         headerPanel = new HeaderPanel(buttonActionListener);
         frame.getContentPane().add(headerPanel);
@@ -120,7 +118,7 @@ public class Frame {
         liveMediaPanel.loadAeat(aeat);
         mediaPanel.loadAeat(aeat);
         expirePanel.loadAeat(aeat);
-        comboBoxPanel.loadAeat(aeat);
+        
     }
 
     //TextField에있는 값들을 읽어서 aeat를 반환

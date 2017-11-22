@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <aeatType xmlns="tag:atsc.org,2016:XMLSchemas/ATSC3/Delivery/AEAT/1.0/">
-    <AEA aeaId="3" issuer="KUSR" audience="public" aeaType="update" refAEAId="3" priority="3" wakeup="true">
+    <AEA aeaId="3" issuer="KUSR" audience="public" aeaType="update" refAEAId="3" priority="3" wakeup="false">
         <Header effective="2016-09-11T13:00:00.000+09:00" expires="2016-09-11T16:00:00.000+09:00">
             <EventCode>EVI</EventCode>
             <EventDesc>Tornado Warning</EventDesc>
